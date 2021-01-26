@@ -50,6 +50,7 @@ p {
 
 /* MORE CONTAINERS */
 .profile {
+  width: 75%;
   line-height: 1.5;
   margin-top: 50px;
 }
